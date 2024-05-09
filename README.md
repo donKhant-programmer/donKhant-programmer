@@ -8,7 +8,7 @@
 - 😄 Pronouns: he, 彼, သူ
 - ⚡ Fun fact: I am in a relationship with guitar right now :)
 
-How to reach me: <a href=”mailto:kevinfeng.cs88@gmail.com”>donkhant1@gmail.com</a>
+https://www.facebook.com/profile.php?id=100083726888161&mibextid=ZbWKwL
 
 <!---
 donKhant-programmer/donKhant-programmer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
