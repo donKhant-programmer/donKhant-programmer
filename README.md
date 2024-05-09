@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on web apps, mobile apps and hobby projects that matches my tech stack.
 - 📫 How to reach me donkhant1@gmail.com
 - 😄 Pronouns: he, 彼, သူ
-- ⚡ Fun fact: I am in a relationship with guitar right now :)
+- ⚡ Fun fact: I am in a relationship with guitar right now xD
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
