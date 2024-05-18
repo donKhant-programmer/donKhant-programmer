@@ -1,6 +1,6 @@
 # Hi guys, I’m Don Khant from Myanmar (Burmese)!
 
-- 👋 Hi, I’m a former Flutter developer and currently studying at Oxford University.
+- 👋 Hi, I’m a former Flutter developer and currently a freshman at University of Oxford.
 - 👀 I’m interested in web and mobile development. 
 - 🌱 I’m currently learning C#, .Net Framework, Database, and Nihongo. 
 - 💞️ I’m looking to collaborate on web apps, mobile apps and hobby projects that matches my tech stack.
