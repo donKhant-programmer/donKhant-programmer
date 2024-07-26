@@ -1,4 +1,4 @@
-# Hi guys, I’m Don Khant from Myanmar (Burmese)!
+# Hi guys, I’m Don Khant from Myanmar (Burma)!
 
 - 👋 Hi, I’m a former Flutter developer and currently a freshman at University of Oxford.
 - 👀 I’m interested in web and mobile development. 
