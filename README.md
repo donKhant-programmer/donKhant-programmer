@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on web apps, mobile apps and hobby projects that matches my tech stack.
 - 📫 How to reach me donkhant1@gmail.com
 - 😄 Pronouns: he, 彼, သူ
-- ⚡ Fun fact: i like food, nature, music, fitness. life kinda sucks!
+- ⚡ Fun fact: my fav things: food, nature, music, fitness. life kinda sucks!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
