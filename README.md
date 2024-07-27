@@ -3,10 +3,10 @@
 - 👋 Hi, I’m a former Flutter developer, and IT student.
 - 👀 I’m interested in web and mobile development. 
 - 🌱 I’m currently learning C#, .Net Framework, Database, and Nihongo. 
-- 💞️ I’m looking to collaborate on web apps, mobile apps and hobby projects that matches my tech stack.
+- 💞️ I’m looking to collaborate on web apps, mobile apps and other projects that matches my tech stack.
 - 📫 How to reach me donkhant1@gmail.com
 - 😄 Pronouns: he, 彼, သူ
-- ⚡ Fun fact: my fav things -> food, nature, music, fitness. life kinda sucks! i strive to be a creative and disciplined individual.
+- ⚡ Fun fact: my fav things -> food, nature, music, fitness. i strive to be a creative and disciplined individual.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
