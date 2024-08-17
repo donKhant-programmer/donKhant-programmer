@@ -1,8 +1,8 @@
 # Hi guys, I’m Don Khant from Myanmar (Burma)!
 
-- 👋 Hi, I’m a former Flutter developer, and IT student.
-- 👀 I’m interested in web and mobile development. 
-- 🌱 I’m currently learning C#, .Net Framework, Database, and Nihongo. 
+- 👋 Hi, I’m a Flutter developer, an IT student.
+- 👀 I’m interested in web and mobile development.
+- 🌱 I’m currently learning C#, .Net Framework, Database, and Japanese language. 
 - 💞️ I’m looking to collaborate on web apps, mobile apps and other projects that matches my tech stack.
 - 📫 How to reach me donkhant1@gmail.com
 - 😄 Pronouns: he, 彼, သူ
