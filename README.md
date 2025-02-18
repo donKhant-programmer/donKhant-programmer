@@ -1,4 +1,4 @@
-# Hi guys, I’m Don Khant from Myanmar!
+# Hi guys, I’m Don Khant from Burma!
 
 - 👋 Hi, I’m a Flutter developer.
 - 👀 I’m interested in software development.
