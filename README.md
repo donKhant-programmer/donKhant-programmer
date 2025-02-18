@@ -1,11 +1,11 @@
 # Hi guys, I’m Don Khant from Myanmar (Burma)!
 
-- 👋 Hi, I’m a Flutter developer. I am currently attending NCC Level 5 DC.
+- 👋 Hi, I’m a Flutter developer.
 - 👀 I’m interested in software development.
 - 🌱 I’m currently learning C#, .Net Framework, Database and UML.
 - 💞️ I’m looking to collaborate on web apps, mobile apps and other projects that matches my tech stack.
 - 📫 How to reach me donkhant1@gmail.com
-- ⚡ what i do -> guitar, coding, fitness. i strive to be a flexible and disciplined individual.
+- ⚡ what i do -> Eat. sleep. Code. i strive to be a flexible and disciplined individual.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
