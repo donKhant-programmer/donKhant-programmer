@@ -113,4 +113,4 @@ https://github.com/donKhant-programmer/hotelreservation-project
 ## ⚡ Mindset
 
 ```txt
-Eat → Sleep → Code → Improve → Repeat
+Eat → Sleep → Code → Play Guitar → Rest → Improve → Repeat
