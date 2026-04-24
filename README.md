@@ -31,7 +31,7 @@
 </p>
 
 📫 **Email:** donkhant1@gmail.com  
-🌐 **Portfolio:** https://donkhant-portfolio-qak5c0yu5-donkhants-projects.vercel.app/
+🌐 **Portfolio:** https://donkhant-portfolio.vercel.app/
 
 ---
 
