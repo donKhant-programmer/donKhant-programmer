@@ -70,7 +70,7 @@
 - Email integration
 
 🔗 Live:  
-https://donkhant-portfolio-guoo9uhh8-don-khantsprojects.vercel.app/
+https://donkhant-portfolio.vercel.app/
 
 🔗 Repo:  
 https://github.com/donKhant-programmer/donkhantportfolio
@@ -83,7 +83,7 @@ https://github.com/donKhant-programmer/donkhantportfolio
 - Complete system design (ERD, use cases)
 
 🔗 Repo:  
-https://github.com/donKhant-programmer/hotelreservation-project
+https://github.com/donKhant-programmer/hotel-reservation-project
 
 ---
 
