@@ -1,24 +1,116 @@
-# Hi guys, I’m Don Khant!
+<h1 align="center">Hi 👋, I'm Don Khant</h1>
+<h3 align="center">Flutter Developer • Exploring Vue.js • Building Scalable Apps</h3>
 
-- 👋 Hi, I’m a Flutter developer.
-- 👀 I’m interested in software development.
-- 🌱 I’m currently learning C#, .Net Framework, Database and UML.
-- 💞️ I’m looking to collaborate on web apps, mobile apps and other projects that matches my tech stack.
-- 📫 How to reach me donkhant1@gmail.com
-- ⚡ what i do -> Eat. sleep. Code. i strive to be a flexible and disciplined individual.
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.facebook.com/profile.php?id=100083726888161&mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="don khant" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/don-khant-9aba47264/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit" height="30" width="40" /></a>  
+<p align="center">
+  <a href="https://github.com/donKhant-programmer">
+    <img src="https://komarev.com/ghpvc/?username=donKhant-programmer&label=Profile%20views&color=0e75b6&style=flat" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=donkhant-programmer&show_icons=true&locale=en&layout=compact" alt="donkhant-programmer" /></p>
+## 🧑‍💻 About Me
 
-<!---
-donKhant-programmer/donKhant-programmer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🚀 Flutter Developer with **3+ years experience**
+- 🧠 Building **AI-integrated apps, workflow systems, and real-world products**
+- 🌱 Currently learning **Vue.js, .NET, System Design**
+- 💡 Interested in **scalable apps, clean UI architecture, and performance**
+- 🌍 Goal: **Work internationally as a Software Engineer**
+
+---
+
+## 🔗 Connect With Me
+
+<p align="left">
+<a href="https://www.facebook.com/profile.php?id=100083726888161" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
+</a>
+<a href="https://www.linkedin.com/in/don-khant-9aba47264/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+</p>
+
+📫 **Email:** donkhant1@gmail.com  
+🌐 **Portfolio:** https://donkhant-portfolio-qak5c0yu5-donkhants-projects.vercel.app/
+
+---
+
+## 🛠️ Tech Stack
+
+### 📱 Mobile & Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,vue,ts,js,html,css" />
+</p>
+
+### ⚙️ Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=firebase,laravel,php,mysql,sqlite" />
+</p>
+
+### 🧰 Tools & Others
+<p>
+  <img src="https://skillicons.dev/icons?i=git,postman,figma,androidstudio" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 AI Multi-Service App
+- Multi-industry platform (hotel, school, restaurant)
+- AI assistant (voice + chat)
+- Role-based system & dynamic content
+- **Tech:** Flutter, Firebase, REST API
+
+---
+
+### 🔹 Developer Portfolio (Vue)
+- Clean UI with reusable components
+- Responsive modern design
+- Email integration
+
+🔗 Live:  
+https://donkhant-portfolio-guoo9uhh8-don-khantsprojects.vercel.app/
+
+🔗 Repo:  
+https://github.com/donKhant-programmer/donkhantportfolio
+
+---
+
+### 🔹 Hotel Booking System (Laravel)
+- Full-stack system with booking workflows
+- Admin dashboard & authentication
+- Complete system design (ERD, use cases)
+
+🔗 Repo:  
+https://github.com/donKhant-programmer/hotelreservation-project
+
+---
+
+### 🔹 AI Medical Consultation App
+- AI + real doctor handoff
+- Chat, video calls, notifications
+- **Tech:** Flutter, Firebase
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=donKhant-programmer&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=donKhant-programmer&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=donKhant-programmer&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## ⚡ Mindset
+
+```txt
+Eat → Sleep → Code → Improve → Repeat
