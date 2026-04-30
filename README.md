@@ -72,8 +72,8 @@
 🔗 Live:  
 https://donkhant-portfolio.vercel.app/
 
-🔗 Repo:  
-https://github.com/donKhant-programmer/donkhantportfolio
+🔗 Repo:
+https://github.com/donKhant-programmer/donkhant-portfolio
 
 ---
 
